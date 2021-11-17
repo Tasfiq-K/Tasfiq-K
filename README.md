@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tasfiq-K
 - 👀 I’m interested in Data science and Machine Learning
 - 🌱 I’m currently learning image processing for a machine learning project
-[//]: # - 💞️ I’m looking to collaborate on ...
+- 
+[comment]: # - 💞️ I’m looking to collaborate on ...
 [//]: # - 📫 How to reach me ...
 
 <!---
